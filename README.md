@@ -141,5 +141,3 @@ Esperamos que este assistente virtual de personal trainer seja útil para auxili
 Bons treinos! 💪 
 
 ---
-
-Esse README detalha o projeto e inclui exemplos de uso e resultados, além de instruções para criar o prompt ideal com boas práticas de engenharia de prompts. Esse modelo deve ajudar a destacar seu projeto e proporcionar um entendimento claro para quem visualizar seu repositório.
