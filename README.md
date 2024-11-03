@@ -1,10 +1,3 @@
-# prompt-challenger-personal-ia
-
-
-Claro! Aqui está um exemplo de README para o projeto "Assistente de Personal Trainer - Gerador de Treino Ideal" seguindo as boas práticas da engenharia de prompts:
-
----
-
 # 🏋️‍♂️ Assistente de Personal Trainer - Gerador de Treino Ideal
 
 Este projeto é um desafio de Prompt Engineer, onde o objetivo é criar um prompt que auxilia na geração de um treino personalizado com base nas características e preferências do usuário, como biotipo corporal, dias disponíveis para treino e tipos de exercícios preferidos. Utilizando boas práticas de engenharia de prompts, este assistente é capaz de responder de forma personalizada e eficiente, fornecendo um plano de treino ideal para cada perfil.
